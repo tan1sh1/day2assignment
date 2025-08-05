@@ -71,7 +71,7 @@ class StringAnalyzer {
     }
 }
 
-public class Main {
+public class HDFCTrainingApp {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
